@@ -36,6 +36,7 @@ export const Item = styled.li `
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
     font-size: 0.85rem;
     color: #000;
     font-weight: 400;
@@ -47,8 +48,6 @@ export const Item = styled.li `
     height: auto;
     width: 20rem;
     padding: 0.625rem;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
 `;
 
 export const Input = styled.input`
