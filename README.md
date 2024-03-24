@@ -15,7 +15,7 @@ O tema de coelhinho foi escolhido para trazer um toque de diversão, especialmen
 - Excluir tarefas da lista.
 - Reordenar as tarefas através de drag and drop.
 
-## Tecnologias Utilizadas ‍💻
+## Tecnologias Utilizadas ‍🛠️
 - [Vite](https://pt.vitejs.dev/guide/) - Build tool para projetos front-end.
 - [React](https://pt-br.legacy.reactjs.org/docs/getting-started.html) - Biblioteca JavaScript para construção de interfaces de usuário.
 - [Styled Components](https://styled-components.com/docs) - Biblioteca para estilização de componentes com CSS em JS.
@@ -24,3 +24,16 @@ O tema de coelhinho foi escolhido para trazer um toque de diversão, especialmen
 
 ## Contribuição 🤝
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar o projeto.
+
+## Media Queries 💻
+
+Extensão utilizada para os testes: <br />
+Simulador de celular - ferramenta de teste responsiva - Google Chrome.
+
+Dispositivos testados 📱
+
+✧ Desktop: Macbook Air (1280 x 800)  
+✧ Tablet: iPad Mini (768 x 1024)  
+✧ Mobile: iPhone 12 Mini (360 x 780) <br />
+
+![Imgur](https://i.imgur.com/NzxpLrU.png)
